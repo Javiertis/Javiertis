@@ -3,6 +3,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiertis&layout=compact&theme=darcula&count_private=true&exclude_repo=dotfiles)
 
-- [Portfolio](javiertis.github.io)
+- [Portfolio](https://javiertis.github.io)
 - 📫 How to reach me: [E-Mail](mailto:javi.teje99@gmail.com) [Linkedin](https://www.linkedin.com/in/javier-tejedor/)
 - 😄 Pronouns: He/Him
