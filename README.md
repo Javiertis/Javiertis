@@ -1,5 +1,5 @@
 
-![Javiertis STATS](https://github-readme-stats.vercel.app/api?username=Javiertis&show_icons=true&theme=darcula&count_private=true)
+![Javiertis Stats](https://github-readme-stats.vercel.app/api?username=Javiertis&show_icons=true&theme=darcula&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javiertis&layout=compact&theme=darcula&count_private=true&exclude_repo=dotfiles)
 
