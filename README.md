@@ -3,7 +3,7 @@
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=PORTFOLIO&url=https://portfolio.javiertejedor.xyz)](https://portfolio.javiertejedor.xyz)
 [![](https://img.shields.io/badge/e--mail-contacto%40javiertejedor.xyz-blueviolet?style=flat-square)](mailto:contacto@javiertejedor.xyz)
 
-![Javiertis Stats](https://javiertis-readme.vercel.app/api?username=Javiertis&show_icons=true&theme=personal_theme&count_private=true) ![Top Langs](https://javiertis-readme.vercel.app/api/top-langs/?username=Javiertis&layout=compact&theme=personal_theme&count_private=true&exclude_repo=dotfiles,ParkingTG,javiertis-readme-stats)
+![Javiertis Stats](https://javiertis-readme.vercel.app/api?username=Javiertis&theme=personal_theme&&show_icons=true&count_private=true) ![Top Langs](https://javiertis-readme.vercel.app/api/top-langs/?username=Javiertis&theme=personal_theme&layout=compact&count_private=true&exclude_repo=dotfiles,ParkingTG,javiertis-readme-stats)
 
 
 - 😄 Pronouns: He/Him
