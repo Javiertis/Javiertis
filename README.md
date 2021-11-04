@@ -22,7 +22,7 @@
   <h4>Frameworks</h4>
 
   <img
-    alt="React badge"
+    alt="Angular badge"
     src="https://img.shields.io/badge/Angular-DC322F?style=for-the-badge&logo=angular&logoColor=white"
   />
   <img
@@ -30,8 +30,8 @@
     src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
   />
   <img
-    alt="Node.js badge"
-    src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+    alt="Nest.js badge"
+    src="https://img.shields.io/badge/NestJs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white"
   />
 
   <h4>Contact</h4>
