@@ -49,6 +49,13 @@
     />
   </a>
 
+  <h4>Learning:</h4>
+
+  <img
+    alt="Rust badge"
+    src="https://img.shields.io/badge/Rust-ff7043?style=for-the-badge&logo=rust&logoColor=white"
+  />
+  
   <h4>Stats</h4>
 
   <img
