@@ -1,10 +1,7 @@
-<div align="center">
-  <h3>Javier Tejedor</h3>
-
-  <hr />
-
-  <h4>Languages</h4>
-
+### Javier Tejedor
+---
+### Languages
+  
   <img
     alt="Javascript badge"
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
@@ -18,24 +15,21 @@
     src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"
   />
   
-
-  <h4>Frameworks</h4>
-
+---
+### Frameworks
+  
   <img
     alt="Angular badge"
     src="https://img.shields.io/badge/Angular-DC322F?style=for-the-badge&logo=angular&logoColor=white"
   />
   <img
-    alt="Redux badge"
-    src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
-  />
-  <img
     alt="Nest.js badge"
     src="https://img.shields.io/badge/NestJs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white"
   />
-
-  <h4>Contact</h4>
-
+  
+---
+### Contact
+  
   <a href="https://linkedin.com/in/javier-tejedor/">
     <img
       alt="Contact me on LinkedIn"
@@ -48,19 +42,19 @@
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
-
-  <h4>Learning:</h4>
-
+  
+---
+### Learning
+  
   <img
     alt="Rust badge"
     src="https://img.shields.io/badge/Rust-ff7043?style=for-the-badge&logo=rust&logoColor=white"
   />
   
-  <h4>Stats</h4>
+---  
 
   <img
     height="150"
     alt="Javiertis's GitHub stats"
     src="https://javiertis-readme.vercel.app/api?username=Javiertis&theme=personal_theme&&show_icons=true&count_private=true"
   />
-</div>
