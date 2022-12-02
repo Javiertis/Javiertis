@@ -1,4 +1,5 @@
 ### Javier Tejedor
+#### Software developer from Spain
 ---
 ### Languages, frameworks and platforms I'm interested in
   
