@@ -1,30 +1,40 @@
 ### Javier Tejedor
 ---
-### Languages
+### Languages, frameworks and platforms I'm interested in
   
   <img
-    alt="Javascript badge"
+    alt="Appian"
+    src="https://img.shields.io/badge/Appian-2322F0?style=for-the-badge&logo=appian&logoColor=white"
+  />
+  <img
+    alt="OutSystems"
+    src="https://img.shields.io/badge/OutSystems-fa173d?style=for-the-badge&logo=outsystems&logoColor=white"
+  />
+  
+  <img
+    alt="Javascript"
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
   />
   <img
-    alt="Typescript badge"
+    alt="Typescript"
     src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
   />
   <img
-    alt="Scala badge"
-    src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"
-  />
-  
----
-### Frameworks
-  
-  <img
-    alt="Angular badge"
+    alt="Angular"
     src="https://img.shields.io/badge/Angular-DC322F?style=for-the-badge&logo=angular&logoColor=white"
   />
   <img
-    alt="Nest.js badge"
+    alt="Nest.js"
     src="https://img.shields.io/badge/NestJs-e0234e?style=for-the-badge&logo=nestjs&logoColor=white"
+  />
+  
+  <img
+      alt="C"
+      src="https://img.shields.io/badge/Clang-0077B5?style=for-the-badge&logo=C&logoColor=white"
+    />
+  <img
+    alt="Qmk badge"
+    src="https://img.shields.io/badge/QMK-333333?style=for-the-badge&logo=qmk&logoColor=white"
   />
   
 ---
@@ -42,14 +52,6 @@
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
-  
----
-### Learning
-  
-  <img
-    alt="Rust badge"
-    src="https://img.shields.io/badge/Rust-ff7043?style=for-the-badge&logo=rust&logoColor=white"
-  />
   
 ---  
 
